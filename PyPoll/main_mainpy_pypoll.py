@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import csv
 import os
-import collections as ct
+
 
 election_data = os.path.join("resources","election_data.csv")
 
